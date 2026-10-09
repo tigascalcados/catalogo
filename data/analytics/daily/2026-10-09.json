@@ -1,17 +1,18 @@
 {
   "date": "2026-10-09",
-  "pageviews": 3,
+  "pageviews": 4,
   "byPath": {
-    "/": 3
+    "/": 4
   },
-  "sessions": 1,
-  "sessionDurationMs": 27989,
+  "sessions": 2,
+  "sessionDurationMs": 42990,
   "waClicks": 0,
   "waBySource": {},
   "waByProdutoId": {},
   "leadsLinked": 0,
   "seenSessionIds": [
-    "c01054f9-fa52-4fd2-84b4-46a00a370bcb"
+    "c01054f9-fa52-4fd2-84b4-46a00a370bcb",
+    "99a42bdf-8ad7-4c89-b2f1-0cdc3528f455"
   ],
   "linkedSessionIds": []
 }
