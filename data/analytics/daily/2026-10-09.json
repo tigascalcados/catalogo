@@ -1,11 +1,11 @@
 {
   "date": "2026-10-09",
-  "pageviews": 3,
+  "pageviews": 4,
   "byPath": {
-    "/": 3
+    "/": 4
   },
   "sessions": 2,
-  "sessionDurationMs": 31354,
+  "sessionDurationMs": 33062,
   "waClicks": 0,
   "waBySource": {},
   "waByProdutoId": {},
