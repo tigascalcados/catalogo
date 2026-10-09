@@ -1,20 +1,20 @@
 {
-  "nomeLoja": "PÉ QUENTE ",
+  "nomeLoja": "TIGAS CALÇADOS",
   "mostrarNomeComLogo": true,
   "mostrarCarrinho": true,
-  "assinatura": "A loja de calçados mais barato de Barretos e Região 🔥",
+  "assinatura": "A loja de calçados mais barato de Franca e Região 🔥",
   "slogan": "CALÇADOS · BOLSAS · ACESSÓRIOS",
   "cores": {
-    "primaria": "#FF0000",
+    "primaria": "#FF7900",
     "secundaria": "#111111",
     "fundo": "#FFFFFF",
     "fundoNeutro": "#F5F5F5",
     "borda": "#E5E5E5"
   },
   "logo": {
-    "id": "050ba9b8-5650-4a9a-bcc2-88ac6ecae94e",
-    "path": "imagens/site/050ba9b8-5650-4a9a-bcc2-88ac6ecae94e.jpg",
-    "alt": "PÉ QUENTE"
+    "id": "9d6a354b-4888-4eef-b61f-cb8d91e012a3",
+    "path": "imagens/site/9d6a354b-4888-4eef-b61f-cb8d91e012a3.jpg",
+    "alt": "TIGAS CALÇADOS"
   },
   "metaReceitaMensal": null
 }
