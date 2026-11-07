@@ -1,12 +1,12 @@
 {
   "date": "2026-11-06",
-  "pageviews": 3,
+  "pageviews": 4,
   "byPath": {
-    "/": 2,
+    "/": 3,
     "/produto/chinelo-rider-ref-12425": 1
   },
   "sessions": 1,
-  "sessionDurationMs": 9263,
+  "sessionDurationMs": 12938,
   "waClicks": 0,
   "waBySource": {},
   "waByProdutoId": {},
