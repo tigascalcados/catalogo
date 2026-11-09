@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-08",
+  "pageviews": 1,
+  "byPath": {
+    "/": 1
+  },
+  "sessions": 1,
+  "sessionDurationMs": 15000,
+  "waClicks": 0,
+  "waBySource": {},
+  "waByProdutoId": {},
+  "leadsLinked": 0,
+  "seenSessionIds": [
+    "9dac84e1-3b17-4a0b-849c-eebb473bda6d"
+  ],
+  "linkedSessionIds": []
+}
